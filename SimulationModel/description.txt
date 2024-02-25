@@ -1,0 +1,1 @@
+Building a simulation model in Excel (Using @Risk) to identify which plan is better in terms of the higher daily wage for a large retail chain.
