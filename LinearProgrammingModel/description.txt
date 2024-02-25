@@ -1,0 +1,1 @@
+Developing a LP model formulation that addresses the issue of minimizing the monthly cost of purchasing heart valves. 
