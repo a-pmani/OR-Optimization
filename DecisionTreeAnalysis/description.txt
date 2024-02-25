@@ -1,2 +1,4 @@
 Developing a decision tree for a real-estate development company to choose a right decision 
 from the three options: sell the property, build a hotel or lease it back.
+
+Tools used:PrecisionTree
