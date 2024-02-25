@@ -1,0 +1,1 @@
+Develop an integer programming model for a bank, that can be used to develop a schedule that will satisfy customer service needs at a minimum total daily cost.
