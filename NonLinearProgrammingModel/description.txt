@@ -1,0 +1,1 @@
+Developing a pricing optimization model that identifies the optimal prices of Aqua-Spa and Hydro-Luxe hot tubs.
