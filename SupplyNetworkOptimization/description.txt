@@ -1,0 +1,8 @@
+Background and Objective
+Chicago Tools, a (fictional) Engineering equipment company headquartered at Bridgeview, Illinois is looking to evaluate their current supply chain design and explore any cost saving opportunities. 
+They currently manufacture products in two locations in the US with a customer base solely in Canada for the business unit in scope.
+The Director of Distributions at Chicago Tools has engaged us, AAA consultants to provide solution to their business problem and has provided last one year’s shipment details (both inbound i.e. from manufacturing plants to warehouses and outbound i.e. warehouses to customers in Canada) and cost data files for analysis. These data files had details like zip code, items that were shipped, weight(lbs) of items being shipped, distance(mi) between origin and destination, freight charge (USD) and others.
+The two objectives as specified by the client were:
+1.	Identify any untapped cost savings opportunities if the supply chain nodes remain the same.
+2.	Identify the optimal number of warehouses that offers the most cost savings.
+To be able to come up with a solution to the business problem, we designed an optimization model and recommended ways to minimize the overall supply chain cost. We also provided Chicago Tools with a handy tool to experiment with the number of warehouses that they would want to keep active and accordingly decide on the best implementation steps for their organization. 
